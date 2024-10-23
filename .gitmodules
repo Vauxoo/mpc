@@ -1,0 +1,4 @@
+[submodule "mpc"]
+	path = mpc
+	url = git@git.vauxoo.com:vauxoo/mpc.git
+	branch = 18.0
