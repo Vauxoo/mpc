@@ -6,3 +6,8 @@
 	path = costarica
 	url = git@git.vauxoo.com:vauxoo/costarica.git
 	branch = 18.0
+
+[submodule "OCA/crm"]
+	path = OCA/crm
+	url = git@github.com:OCA/crm.git
+	branch = 18.0
